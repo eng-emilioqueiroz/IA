@@ -10,11 +10,11 @@ O estrutureiroCA é um agente técnico voltado para cálculos preliminares em co
 
 Arquivo principal:
 
-- `agent.md`
+- `AGENTS.md`
 
 ## Skills disponíveis
 
-- `skills/dimensionamento_armadura_longitudinal_vigas_CA.md`
+- `skills/viga_flexao.md`
 
 ## Aviso
 
